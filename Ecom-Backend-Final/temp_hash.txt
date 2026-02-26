@@ -1,0 +1,2 @@
+password
+$2a$10$C.bwOBwRSNNplTpmVHnY7eGA2PLyQq0leI0b/4m0oAedIpp2bye8i
